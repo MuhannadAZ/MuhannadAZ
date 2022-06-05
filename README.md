@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MuhannadAZ
-- 🌱 I’m currently learning java ,javascript and python
+- 🌱 I’m currently learning java, javascript and python
 - 💞️ I’m looking to collaborate on full-stack developer
 - 📫 How to reach me muhanned908@gmail.com
 
