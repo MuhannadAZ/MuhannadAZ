@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MuhannadAZ
-- 👀 I’m interested in programing
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on idk
-- 📫 How to reach me muhanned908@gmail.comz
+- 🌱 I’m currently learning java ,javascript and python
+- 💞️ I’m looking to collaborate on full-stack developer
+- 📫 How to reach me muhanned908@gmail.com
 
 <!---
 MuhannadAZ/MuhannadAZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
