@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @MuhannadAZ
-- 🌱 I’m currently learning React framework
-- 💞️ I’m looking to collaborate on JavaScript full-stack developer
 - 📫 How to reach me muhannad.althafir@gmail.com
 
 <!---
