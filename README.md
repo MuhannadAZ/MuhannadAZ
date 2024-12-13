@@ -37,8 +37,9 @@
 <h2 align="center">🏆 Achievements</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhannadAZ&theme=onestar&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=6&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=muhannadAZ&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </div>
+<h2 align="center"
 
 <h2 align="center">📈 Activity Graph</h2>
 
@@ -47,18 +48,22 @@
 </div>
 
 <h2 align="center">🤝 Connect With Me</h2>
-
 <div align="center">
-  <a href="mailto:muhannadaz.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>&nbsp;
+  <a href="mailto:muhannad.althafir@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white&logoWidth=30&borderRadius=10" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/muhannad-al-thafir-12973b328/">
-    <img src="https://img.shields.io/badge/Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://github.com/MuhannadAZ">
-    <img src="https://img.shields.io/badge/Follow-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30&borderRadius=10" alt="LinkedIn" />
   </a>
 </div>
+<div align="center">
+  <a href="mailto:muhannad.althafir@gmail.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=EA4335&center=true&vCenter=true&width=200&height=40&lines=Email+me!" alt="Email Animation" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhannad-al-thafir-12973b328/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0A66C2&center=true&vCenter=true&width=200&height=40&lines=Connect+with+me!" alt="LinkedIn Animation" />
+  </a>
 
 <div align="center">
   <h3>🌟 Profile Views</h3>
