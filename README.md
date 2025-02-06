@@ -65,12 +65,6 @@
   <img src="https://profile-counter.glitch.me/{MuhannadAZ}/count.svg" alt="Visitor Count" />
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhannadAZ/MuhannadAZ/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhannadAZ/MuhannadAZ/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MuhannadAZ/MuhannadAZ/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,19,20,21&height=120&section=footer"/>
