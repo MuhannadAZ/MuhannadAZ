@@ -42,12 +42,6 @@
 </div>
 <h2 align="center"
 
-<h2 align="center">📈 Activity Graph</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhannadAZ&custom_title=MuhannadAZ's%20Activity%20Graph&bg_color=0d1117&color=3498db&line=3498db&point=3498db&area_color=3498db&area=true&hide_border=true" width="95%" />
-</div>
-
 <h2 align="center">🤝 Connect With Me</h2>
 <div align="center">
   <a href="mailto:muhannad.althafir@gmail.com">
