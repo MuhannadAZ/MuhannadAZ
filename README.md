@@ -28,8 +28,7 @@
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MuhannadAZ&show_icons=true&count_private=true&hide_border=true&title_color=3498db&icon_color=3498db&text_color=c9d1d9&bg_color=0d1117" alt="MuhannadAZ github stats" /> 
     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhannadAZ&layout=compact&hide_border=true&title_color=3498db&text_color=c9d1d9&bg_color=0d1117" />
   </div>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhannadAZ&theme=tokyonight&hide_border=true&stroke=3498db&ring=3498db&fire=3498db&currStreakNum=DDDDDD" />
+  
 </details>
 
 
